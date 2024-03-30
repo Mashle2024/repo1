@@ -1,2 +1,5 @@
 .*
 !/.gitignore
+rsa
+rsa.pub
+
